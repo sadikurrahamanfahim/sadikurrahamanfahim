@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **fahim99369@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/epIW5](https://shorturl.at/epIW5)
+- 📄 Know about my experiences [...]
 
 - ⚡ Fact **I think I am very energetic**
 
