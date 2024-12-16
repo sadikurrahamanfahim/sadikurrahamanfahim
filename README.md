@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **ASP.NET core web API & Reactjs**
 
-- 🔭 I’m currently working on **Native Android Development (Java)**
+- 🔭 I’m currently working on **Unity Engine(Game Development)**
 
 - 👯 I’m looking to collaborate on **Android Applications Project**
 
