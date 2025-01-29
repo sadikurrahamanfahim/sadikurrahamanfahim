@@ -4,13 +4,13 @@
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 
-- 🌱 I’m currently learning **ASP.NET core web API & Reactjs**
+- 🌱 I’m currently learning **Game Develpoment with Unity Engine**
 
 - 🔭 I’m currently working on **Unity Engine(Game Development)**
 
-- 👯 I’m looking to collaborate on **Android Applications Project**
+- 👯 I’m looking to collaborate on **Game Development Projects**
 
-- 🤝 I’m looking for help with **Learning Web API**
+- 🤝 I’m looking for help with **ECS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sadikurrahamanfahim](https://github.com/sadikurrahamanfahim)
 
