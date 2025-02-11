@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **fahim99369@gmail.com**
 
-- 📄 Explore my PortFolio [Sadikur Rahaman's PortFolio(https://sadikurrahaman.vercel.app/)]
+- 📄 Explore my PortFolio [https://sadikurrahaman.vercel.app/(https://sadikurrahaman.vercel.app/)]
 
 - ⚡ Fact **I think I am very energetic**
 
